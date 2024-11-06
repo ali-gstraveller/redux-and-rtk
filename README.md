@@ -1,1 +1,1 @@
-Redux and RTK intergrated which includes post only.
+Redux and RTK intergrated which includes posts only.
